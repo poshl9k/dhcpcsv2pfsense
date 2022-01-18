@@ -1,0 +1,31 @@
+
+<staticmap>
+    <mac>{mac}</mac>
+    <cid></cid>
+    <ipaddr>{ipaddr}</ipaddr>
+    <hostname></hostname>
+    <descr>{descr}</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>{dnsserver1}</dnsserver>
+    <dnsserver>{dnsserver2}</dnsserver>
+    <gateway>{gateway}</gateway>
+    <domain>{domain}</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>

@@ -1,0 +1,1170 @@
+<staticmap>
+    <mac>00:22:15:2E:31:A8</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.151</ipaddr>
+    <hostname></hostname>
+    <descr>Снабжение Новикова Наталья</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>00:22:4D:6A:2B:8F</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.152</ipaddr>
+    <hostname></hostname>
+    <descr>Снабжение Андреченко Анастасия</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>00:04:79:66:19:52</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.153</ipaddr>
+    <hostname></hostname>
+    <descr>Снабжение Чистякова Елена</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>A8:5E:45:6D:38:4E</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.154</ipaddr>
+    <hostname></hostname>
+    <descr>Снабжение Мартьянова Ольга</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>00:04:79:66:19:DD</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.155</ipaddr>
+    <hostname></hostname>
+    <descr>Снабжение Кладовщик</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>68:05:CA:1B:63:47</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.156</ipaddr>
+    <hostname></hostname>
+    <descr>Снабжение Панаморенко татьяна</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>18:31:BF:27:04:3D</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.157</ipaddr>
+    <hostname></hostname>
+    <descr>Бухгалтерия Куланхина Мария</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>10:C3:7B:DB:91:C9</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.158</ipaddr>
+    <hostname></hostname>
+    <descr>Бухгалтерия Пимкина Людмила</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>04:D4:C4:F2:C9:29</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.159</ipaddr>
+    <hostname></hostname>
+    <descr>Бухгалтерия Соловьева Марина</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>70:4D:7B:28:7B:76</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.160</ipaddr>
+    <hostname></hostname>
+    <descr>Бухгалтерия Козлова Ирина</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>18:31:BF:22:D5:FE</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.161</ipaddr>
+    <hostname></hostname>
+    <descr>Бухгалтерия Казакова</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>38:D5:47:0E:40:59</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.162</ipaddr>
+    <hostname></hostname>
+    <descr>Бухгалтерия Бородулина Светлана</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>00:1B:21:B8:05:87</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.163</ipaddr>
+    <hostname></hostname>
+    <descr>Бухгалтерия Дербенко Светлана</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>04:92:26:4A:7D:32</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.164</ipaddr>
+    <hostname></hostname>
+    <descr>Бухгалтерия Подпружникова Наталья</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>70:4D:7B:30:FF:26</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.165</ipaddr>
+    <hostname></hostname>
+    <descr>Бухгалтерия Еремкина Светлана</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>68:05:CA:1A:79:36</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.166</ipaddr>
+    <hostname></hostname>
+    <descr>Администрация Куликов Николай</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>70:8B:CD:A7:70:9E</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.167</ipaddr>
+    <hostname></hostname>
+    <descr>Администрация Секретарь</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>60:45:CB:A1:31:26</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.168</ipaddr>
+    <hostname></hostname>
+    <descr>Администрация Сереженков Николай</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>3C:7C:3F:D8:3D:F7</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.169</ipaddr>
+    <hostname></hostname>
+    <descr>Администрация Сереженкова Елизавета</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>88:D7:F6:7A:75:8A</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.170</ipaddr>
+    <hostname></hostname>
+    <descr>Администрация Скопинцев Станислав</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>04:92:26:4B:AC:D4</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.171</ipaddr>
+    <hostname></hostname>
+    <descr>Отдел кадров Кирьянова Надежда</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>70:8B:CD:A7:89:37</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.172</ipaddr>
+    <hostname></hostname>
+    <descr>Охрана труда Кочанова Ольга</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>B0:6E:BF:C7:0E:D9</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.173</ipaddr>
+    <hostname></hostname>
+    <descr>Отдел продаж Подобедова Анастасия</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>04:92:26:5D:F2:8F</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.174</ipaddr>
+    <hostname></hostname>
+    <descr>Отдел продаж Мещанинова Ольга</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>04:92:26:48:7B:0F</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.175</ipaddr>
+    <hostname></hostname>
+    <descr>Отдел продаж Васильев Валерий</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>D4:5D:64:A8:41:C3</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.176</ipaddr>
+    <hostname></hostname>
+    <descr>Отдел продаж Колосов Кирилл</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>60:45:CB:9F:60:8E</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.177</ipaddr>
+    <hostname></hostname>
+    <descr>Отдел продаж Казымова Виктория</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>F8:32:E4:9B:13:A2</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.178</ipaddr>
+    <hostname></hostname>
+    <descr>Отдел продаж Иванова Нина</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>00:24:8C:77:96:01</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.179</ipaddr>
+    <hostname></hostname>
+    <descr>Монтаж Буяльский Сергей</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>00:13:D4:5E:16:A9</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.180</ipaddr>
+    <hostname></hostname>
+    <descr>Монтаж Котельницкий Александр</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>40:16:7E:73:8A:B4</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.181</ipaddr>
+    <hostname></hostname>
+    <descr>Монтаж Каркашин Константин</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>00:1B:21:C6:59:76</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.182</ipaddr>
+    <hostname></hostname>
+    <descr>ПТО Мазильников Сергей</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>18:31:BF:25:B7:CC</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.183</ipaddr>
+    <hostname></hostname>
+    <descr>ПТО Бевза Владимир</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>24:4B:FE:49:8E:00</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.184</ipaddr>
+    <hostname></hostname>
+    <descr>ПТО Тикунова Лада</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>68:05:CA:28:1B:83</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.185</ipaddr>
+    <hostname></hostname>
+    <descr>ПТО Лысова Лариса</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>00:22:15:CB:F7:E5</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.186</ipaddr>
+    <hostname></hostname>
+    <descr>ПТО Макарова Елена</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>68:05:CA:29:C5:4C</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.187</ipaddr>
+    <hostname></hostname>
+    <descr>ПТО Волкова Наталья</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>70:4D:7B:30:F9:64</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.188</ipaddr>
+    <hostname></hostname>
+    <descr>ПТО Кардаш Алевтина</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
+<staticmap>
+    <mac>40:16:7E:73:89:C3</mac>
+    <cid></cid>
+    <ipaddr>192.168.120.189</ipaddr>
+    <hostname></hostname>
+    <descr>ПТО Шкаликова Татьяна</descr>
+    <filename></filename>
+    <rootpath></rootpath>
+    <defaultleasetime></defaultleasetime>
+    <maxleasetime></maxleasetime>
+    <dnsserver>192.168.120.1</dnsserver>
+    <dnsserver>1.1.1.1</dnsserver>
+    <gateway>192.168.120.1</gateway>
+    <domain>Sodr:120</domain>
+    <domainsearchlist></domainsearchlist>
+    <ddnsdomain></ddnsdomain>
+    <ddnsdomainprimary></ddnsdomainprimary>
+    <ddnsdomainsecondary></ddnsdomainsecondary>
+    <ddnsdomainkeyname></ddnsdomainkeyname>
+    <ddnsdomainkeyalgorithm>hmac-md5</ddnsdomainkeyalgorithm>
+    <ddnsdomainkey></ddnsdomainkey>
+    <tftp></tftp>
+    <ldap></ldap>
+    <nextserver></nextserver>
+    <filename32></filename32>
+    <filename64></filename64>
+    <filename32arm></filename32arm>
+    <filename64arm></filename64arm>
+    <numberoptions></numberoptions>
+</staticmap>
